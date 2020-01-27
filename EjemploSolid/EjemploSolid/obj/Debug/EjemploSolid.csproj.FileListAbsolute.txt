@@ -1,0 +1,6 @@
+C:\Users\jose.ek\source\repos\EjemploSolid\EjemploSolid\bin\Debug\EjemploSolid.exe.config
+C:\Users\jose.ek\source\repos\EjemploSolid\EjemploSolid\bin\Debug\EjemploSolid.exe
+C:\Users\jose.ek\source\repos\EjemploSolid\EjemploSolid\bin\Debug\EjemploSolid.pdb
+C:\Users\jose.ek\source\repos\EjemploSolid\EjemploSolid\obj\Debug\EjemploSolid.csprojAssemblyReference.cache
+C:\Users\jose.ek\source\repos\EjemploSolid\EjemploSolid\obj\Debug\EjemploSolid.exe
+C:\Users\jose.ek\source\repos\EjemploSolid\EjemploSolid\obj\Debug\EjemploSolid.pdb
